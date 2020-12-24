@@ -1,0 +1,7 @@
+/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase8/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase8/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrValgrind.dir
+/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase8/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase8/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest.dir
+/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase8/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests.dir
+/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase8/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest_main.dir
+/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase8/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests_ext.dir

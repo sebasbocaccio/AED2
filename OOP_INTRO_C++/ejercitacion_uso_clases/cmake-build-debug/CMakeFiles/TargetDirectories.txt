@@ -1,0 +1,6 @@
+/home/sebasbocaccio/Documents/Algo2Labos/Clase1/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sebasbocaccio/Documents/Algo2Labos/Clase1/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sebasbocaccio/Documents/Algo2Labos/Clase1/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/gtest.dir
+/home/sebasbocaccio/Documents/Algo2Labos/Clase1/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_ejercitacion.dir
+/home/sebasbocaccio/Documents/Algo2Labos/Clase1/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_algobot.dir
+/home/sebasbocaccio/Documents/Algo2Labos/Clase1/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/gtest_main.dir
