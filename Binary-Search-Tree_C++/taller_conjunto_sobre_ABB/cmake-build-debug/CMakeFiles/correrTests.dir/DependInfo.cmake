@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase7/taller_conjunto_sobre_ABB/tests/conjunto-tests.cpp" "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase7/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/correrTests.dir/tests/conjunto-tests.cpp.o"
+  "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/Binary-Search-Tree_C++/taller_conjunto_sobre_ABB/tests/conjunto-tests.cpp" "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/Binary-Search-Tree_C++/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/correrTests.dir/tests/conjunto-tests.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -14,8 +14,8 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase7/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase7/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/Binary-Search-Tree_C++/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/Binary-Search-Tree_C++/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/gtest_main.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

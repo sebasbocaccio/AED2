@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/HASH_TABLE/hash_table.cpp
+hash_table.h
+/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/HASH_TABLE/hash_table.h
+
+/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/HASH_TABLE/hash_table.h
+vector
+/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/HASH_TABLE/vector
+
+/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/HASH_TABLE/main.cpp
+iostream
+-
+string
+/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/HASH_TABLE/string
+hash_table.cpp
+/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/HASH_TABLE/hash_table.cpp
+

@@ -1,4 +1,4 @@
-# Install script for directory: /home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase7/taller_conjunto_sobre_ABB
+# Install script for directory: /home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/Binary-Search-Tree_C++/taller_conjunto_sobre_ABB
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase7/taller_conjunto_sobre_ABB/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/Binary-Search-Tree_C++/taller_conjunto_sobre_ABB/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/114/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/121/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/114/bin/cmake/linux/bin/cmake -E remove -f
+RM = /snap/clion/121/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase7/taller_conjunto_sobre_ABB"
+CMAKE_SOURCE_DIR = "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/Binary-Search-Tree_C++/taller_conjunto_sobre_ABB"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase7/taller_conjunto_sobre_ABB/cmake-build-debug"
+CMAKE_BINARY_DIR = "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/Binary-Search-Tree_C++/taller_conjunto_sobre_ABB/cmake-build-debug"
 
 # Utility rule file for correrValgrind.
 
@@ -71,6 +71,6 @@ CMakeFiles/correrValgrind.dir/clean:
 .PHONY : CMakeFiles/correrValgrind.dir/clean
 
 CMakeFiles/correrValgrind.dir/depend:
-	cd "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase7/taller_conjunto_sobre_ABB/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase7/taller_conjunto_sobre_ABB" "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase7/taller_conjunto_sobre_ABB" "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase7/taller_conjunto_sobre_ABB/cmake-build-debug" "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase7/taller_conjunto_sobre_ABB/cmake-build-debug" "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase7/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/correrValgrind.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/Binary-Search-Tree_C++/taller_conjunto_sobre_ABB/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/Binary-Search-Tree_C++/taller_conjunto_sobre_ABB" "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/Binary-Search-Tree_C++/taller_conjunto_sobre_ABB" "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/Binary-Search-Tree_C++/taller_conjunto_sobre_ABB/cmake-build-debug" "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/Binary-Search-Tree_C++/taller_conjunto_sobre_ABB/cmake-build-debug" "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/Binary-Search-Tree_C++/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/correrValgrind.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/correrValgrind.dir/depend
 

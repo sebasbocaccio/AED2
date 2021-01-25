@@ -1,4 +1,4 @@
-/snap/clion/114/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase7/taller_conjunto_sobre_ABB"
+/snap/clion/121/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/Binary-Search-Tree_C++/taller_conjunto_sobre_ABB"
 -- The C compiler identification is GNU 7.5.0
 -- The CXX compiler identification is GNU 7.5.0
 -- Check for working C compiler: /usr/bin/cc
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/Clase7/taller_conjunto_sobre_ABB/cmake-build-debug
+-- Build files have been written to: /home/sebasbocaccio/Desktop/Algo 2 Solo/Labo/AED2/Binary-Search-Tree_C++/taller_conjunto_sobre_ABB/cmake-build-debug
